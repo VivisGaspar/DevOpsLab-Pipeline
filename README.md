@@ -14,6 +14,8 @@ DevOps na Prática - Criando uma Pipeline do Zero
 
 [![Build Status](https://app.travis-ci.com/VivisGaspar/DevOpsLab-Pipeline.svg?branch=master)](https://app.travis-ci.com/VivisGaspar/DevOpsLab-Pipeline)
 
+
+
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a  href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
